@@ -1,4 +1,4 @@
 # Introducao-ao-GitHub
-Minicurso ministrado na VIII saee
+eu estou com fome quero merendar
 
 https://github.com/git-guides/install-gits
